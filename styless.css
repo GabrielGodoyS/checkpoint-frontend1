@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+  
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    border-color: aliceblue;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+
+body {
+    background-image:url("https://rotadeferias.com.br/wp-content/uploads/2021/01/shutterstock_557205925.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+}
+header {
+    nav-right: auto;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/300px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png");
+    background-repeat: no-repeat;
+    background-size: 100PX;
+    align-items: center;
+    justify-content: center;
+    background-color: black;    
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+  display: flexbox;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.container-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+width: 300px;
+height: 300px;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+}
+.iframe {
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h2map {
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+.curiosidadessp {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-large;
+}
+.historiasp {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 80px;
+}
+div {
+    margin: 50px;
+
+}
